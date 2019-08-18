@@ -3,7 +3,7 @@
    :alt: License: AGPL-3
 
 =======================
-Sale Order Mass Action for Odoo 11 EE&CE
+Sale Order Mass Action for Odoo 12 EE&CE
 =======================
 
 
